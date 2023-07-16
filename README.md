@@ -1,2 +1,2 @@
 # Leetcode-practice
-Leetcode practice record
+Leetcode practice record in C code
